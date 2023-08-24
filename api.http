@@ -1,0 +1,24 @@
+
+### Hello World
+GET http://localhost:3000/api
+
+
+### Listar routes - GET /api/routes
+GET http://localhost:3000/api/routes
+
+
+### Criar routes - POST /api/routes
+POST http://localhost:3000/api/routes
+Content-Type: application/json 
+
+{
+  "name": "Rota para entrega de produto",
+  "source": {
+    "lat": -23.558125982978147,
+    "lng": -46.6150131207001
+  },
+  "destination": {
+    "lat": -23.55113706367705,
+    "lng": -46.63464133665705
+  }
+}
