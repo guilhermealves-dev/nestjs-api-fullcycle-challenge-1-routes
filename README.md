@@ -4,9 +4,9 @@ Este projeto é parte de um desafio de desenvolvimento de uma API para gestão d
 ## Funcionalidades
 - Listar rotas cadastradas
 - Cadastrar uma nova rota, definindo: 
-    -- nome da rota
-    -- latitude e longitude da origem
-    -- latitude e longitude do destino
+    - nome da rota
+    - latitude e longitude da origem
+    - latitude e longitude do destino
 
 ## Tecnologias Utilizadas
 
